@@ -11,7 +11,7 @@
   <a href="https://linkedin.com/in/kayky emanoel heiderich costa campos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kayky emanoel heiderich costa campos" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/kaykyheiderichdev231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaykyheiderichdev231" height="30" width="40" /></a>
   <a href="https://instagram.com/kayky_heiderich_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kayky_heiderich_" height="30" width="40" /></a>
-  <a href="https://discord.gg/kaykycosta231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kaykycosta231" height="30" width="40" /></a>
+  <a href="https://discord.gg/https://discord.gg/HyK8NADp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/HyK8NADp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
