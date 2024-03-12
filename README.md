@@ -2,7 +2,9 @@
 <h1 align="center">Olá, eu sou Kayky Heiderich</h1>
 <h3 align="center">Desenvolvedor de software em constante evolução - Atualmente cursando Análise e Desenvolvimento de Software para construir uma base de conhecimento sólida.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaykyheiderichdev231&label=Profile%20views&color=0e75b6&style=flat" alt="kaykyheiderichdev231" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=kaykyheiderichdev231&label=Profile%20views&color=0e75b6&style=flat" alt="kaykyheiderichdev231" /> 
+</p>
 
 - 🌱 Atualmente cursando **Análise e Desenvolvimento de Software**
 - 🤝 Em busca de **Estágio**
@@ -26,8 +28,8 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
-<p align="left">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/top-langs?username=kaykyheiderichdev231&show_icons=true&locale=en&layout=compact" alt="kaykyheiderichdev231" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaykyheiderichdev231&show_icons=true&locale=en&layout=compact" alt="kaykyheiderichdev231" />
 </p>
 
 <p align="center">
