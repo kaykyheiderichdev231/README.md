@@ -2,10 +2,6 @@
 <h1 align="center">Olá, eu sou Kayky Heiderich</h1>
 <h3 align="center">Desenvolvedor de software em constante evolução - Atualmente cursando Análise e Desenvolvimento de Software para construir uma base de conhecimento sólida.</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=kaykyheiderichdev231&label=Profile%20views&color=0e75b6&style=flat" alt="kaykyheiderichdev231" /> 
-</p>
-
 - 🌱 Atualmente cursando **Análise e Desenvolvimento de Software**
 - 🤝 Em busca de **Estágio**
 - 📫 E-mail principal **kaykyheiderichdev@gmail.com**
