@@ -9,7 +9,7 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/kayky-emanoel-heiderich-costa-campos-1840942b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/kayky-emanoel-heiderich-costa-campos-1840942b8" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23512915/kayky-heiderich?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23512915/kayky-heiderich?tab=profile" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/23512915/kayky-heiderich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23512915/kayky-heiderich" height="30" width="40" /></a>
   <a href="https://instagram.com/kayky_heiderich_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kayky_heiderich_" height="30" width="40" /></a>
   <a href="https://discord.gg/https://discord.gg/HyK8NADp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/HyK8NADp" height="30" width="40" /></a>
 </p>
