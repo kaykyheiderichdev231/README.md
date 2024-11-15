@@ -1,8 +1,8 @@
 
 <h1 align="center">Olá, eu sou Kayky Heiderich</h1>
-<h3 align="center">Desenvolvedor de software em constante evolução - Atualmente cursando Análise e Desenvolvimento de Software para construir uma base de conhecimento sólida.</h3>
+<h3 align="center">Desenvolvedor de software em constante evolução - Atualmente cursando Análise e Desenvolvimento de Sistemas para construir uma base de conhecimento sólida.</h3>
 
-- 🌱 Atualmente cursando **Análise e Desenvolvimento de Software**
+- 🌱 Atualmente cursando **Análise e Desenvolvimento de Sistemas**
 - 🤝 Em busca de **Estágio**
 - 📫 E-mail principal **kaykyheiderichdev@gmail.com**
 
